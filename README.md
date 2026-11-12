@@ -1,5 +1,5 @@
 steps to push in git
-cd filepath
+cd filepath 
 pwd
 ls
 git init
